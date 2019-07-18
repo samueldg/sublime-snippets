@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[breakpoint()]]></content>
+    <tabTrigger>breakpoint</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
